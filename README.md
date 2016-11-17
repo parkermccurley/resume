@@ -55,4 +55,4 @@ Past projects include:
 
 **phone:** 216.536.0799
 
-*References for past employment & projects will be furnished upon request.*
+*References for past employment & projects to be furnished upon request.*
