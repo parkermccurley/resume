@@ -17,7 +17,7 @@ profile(parker);
 ## Experience
 
 #### DXY Solutions, LLC - Software Engineer
-*Jan 2017 - Present
+*Jan 2017 - Present*
 
 TBD!
 
