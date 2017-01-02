@@ -15,8 +15,14 @@ profile(parker);
 ```
 
 ## Experience
+
+#### DXY Solutions, LLC - Software Engineer
+*Jan 2017 - Present
+
+TBD!
+
 #### Payscape - Software Engineer
-*Jan 2016 - Present*
+*Jan 2016 - Jan 2017*
 
 Handling the maintenance and expansion of existing applications, as well as the design and implementation of new ones.  In a fast-paced, **Agile** environment, I use my knowledge of the full-stack such as **database design**, **backend development**, and **user interface development** to create great software with a great team.
 
