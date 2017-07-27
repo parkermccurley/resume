@@ -10,7 +10,7 @@ var parker = skills + hobbies + home;
 function profile(person) {
   if (person == 'awesome')
     return new Job();
-};
+}
 
 profile(parker);
 ```
