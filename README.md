@@ -78,7 +78,7 @@ I co-organize the Crypto Cleveland monthly event, drawing an average of 36 atten
 
 *Mar 2017 - Present*
 
-I co-organize the Cleveland Ruby Brigade "Hack Night, drawing an average of 15 attendees to collaborate on various open source software projects, and educate beginners on getting started with the Ruby programming language.
+I co-organize the Cleveland Ruby Brigade "Hack Night", drawing an average of 15 attendees to collaborate on various open source software projects, and educate beginners on getting started with the Ruby programming language.
 
 #### Bridge Foundry - Volunteer Instructor
 
