@@ -18,6 +18,7 @@ profile(parker);
 ## Experience
 
 #### Decent Technologies, LLC - Co-Founder
+*May 2017 - Present*
 
 Decent is designed to lower the barrier to entry of cryptocurrency. Our mission is to provide content and software for the masses to ensure any interested party can leverage the power of blockchain technology safely and securely.
 
