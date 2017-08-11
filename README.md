@@ -15,7 +15,7 @@ function profile(person) {
 profile(parker);
 ```
 
-## Stack
+## Stack Experience
 
 I have shipped production software using:
 * **Ruby** (rails, sinatra, custom implementations)
