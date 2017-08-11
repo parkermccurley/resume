@@ -15,6 +15,16 @@ function profile(person) {
 profile(parker);
 ```
 
+## Stack
+
+I have shipped production software using:
+* **Ruby** (rails, sinatra, custom implementations)
+* **JavaScript** (node.js, express, koa, react, AngularJS, custom implementations)
+* **TypeScript** (Angular4, ng-redux)
+* **Java** (Android)
+* **C++** (OpenCV computer vision library)
+* **PostgreSQL**, **MySQL**, **SQLite**, and **MongoDB**
+
 ## Work Experience
 
 #### Decent Technologies, LLC - Founder
