@@ -17,7 +17,7 @@ profile(parker);
 
 ## Work Experience
 
-#### Decent Technologies, LLC - Co-Founder
+#### Decent Technologies, LLC - Founder
 
 *May 2017 - Present*
 
