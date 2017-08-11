@@ -25,6 +25,8 @@ I have shipped production software using:
 * **C++** (OpenCV computer vision library)
 * **PostgreSQL**, **MySQL**, **SQLite**, and **MongoDB**
 
+I generally view a programming language and framework as an implementation detail based on project requirements. I pay closer attention to patterns and architecture than to syntax.
+
 ## Work Experience
 
 #### Decent Technologies, LLC - Founder
