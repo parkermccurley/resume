@@ -1,11 +1,11 @@
 # Parker McCurley
 
 ```
-var skills = ["software development", "development operations", "project management"];
-var hobbies = ["travel", "entrepreneurship", "mentorship", "learning"];
-var home = ["Cleveland"];
+const skills = ["software engineering", "entrepreneurship", "consulting", "project management"];
+const hobbies = ["travel", "mentorship", "learning", "adventure"];
+const home = ["Cleveland"];
 
-var parker = skills + hobbies + home;
+const parker = skills + hobbies + home;
 
 function profile(person) {
   if (person == 'awesome')
@@ -33,11 +33,11 @@ I generally view a programming language and framework as an implementation detai
 
 *May 2017 - Present*
 
-Decent is designed to lower the barrier to entry of cryptocurrency. Our mission is to provide content and software for the masses to ensure any interested party can leverage the power of blockchain technology safely and securely.
+decent is a blockchain technology firm founded by expert software engineers building the future through smart contracts, decentralized applications, and digital currencies.
 
 #### DXY Solutions, LLC - Software Engineer
 
-*Jan 2017 - Present*
+*Jan 2017 - October 2017*
 
 DXY's art is to turn an idea into an amazing product. My role in that process as an engineer is to gain an intimate understanding of a client's industry, goal, and requirements, both technical and business-oriented. I then leverage that understanding to **architect** a bespoke software solution, making decisions in all stages of the early software lifecycle. I have also been tasked with **solving highly technical problems** for existing businesses.
 
@@ -109,5 +109,3 @@ I served as the instructor for the "advanced" class, and instructed a full day w
 **email:** parkermccurlz@gmail.com
 
 **phone:** 216.536.0799
-
-*References for past employment & projects to be furnished upon request.*
