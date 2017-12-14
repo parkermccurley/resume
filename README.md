@@ -18,6 +18,7 @@ profile(parker);
 ## Stack Experience
 
 I have shipped production software using:
+* **Solidity** (ethereum, truffle, open-zeppelin)
 * **Ruby** (rails, sinatra, custom implementations)
 * **JavaScript** (node.js, express, koa, react, AngularJS, custom implementations)
 * **TypeScript** (Angular4, ng-redux)
