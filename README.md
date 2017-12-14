@@ -49,7 +49,7 @@ Past projects include:
 * A computer vision Android application ( **Java, C++, OpenCV** )
 * An on-demand model Android application, including digital payments ( **Java** )
 * A custom authentication and SSO tool ( **node.js** )
-* A bitcoin block explorer ( **Rails, React, and Bitcoin** )
+* A bitcoin block explorer ( **Rails, React, and bitcoind** )
 
 #### Self Employed - Information Technology Consultant
 
