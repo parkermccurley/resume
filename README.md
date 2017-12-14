@@ -39,9 +39,9 @@ decent is a blockchain technology firm founded by expert software engineers buil
 
 *Jan 2017 - October 2017*
 
-DXY's art is to turn an idea into an amazing product. My role in that process as an engineer is to gain an intimate understanding of a client's industry, goal, and requirements, both technical and business-oriented. I then leverage that understanding to **architect** a bespoke software solution, making decisions in all stages of the early software lifecycle. I have also been tasked with **solving highly technical problems** for existing businesses.
+DXY's art was to turn an idea into an amazing product. My role in that process as an engineer was to gain an intimate understanding of a client's industry, goal, and requirements, both technical and business-oriented. I then leveraged that understanding to **architect** a bespoke software solution, making decisions in all stages of the early software lifecycle. I was also tasked with **solving highly technical problems** for existing businesses.
 
-When I am not programming, I operate as DXY's mascot to the developer community at large by **planning, hosting, and speaking at technology events**.
+When I was not programming, I operated as DXY's mascot to the developer community at large by **planning, hosting, and speaking at technology events**.
 
 Past projects include:
 * An automation tool to manage e-commerce platform activity ( **node.js** )
@@ -49,6 +49,7 @@ Past projects include:
 * A computer vision Android application ( **Java, C++, OpenCV** )
 * An on-demand model Android application, including digital payments ( **Java** )
 * A custom authentication and SSO tool ( **node.js** )
+* A bitcoin block explorer ( **Rails, React, and Bitcoin** )
 
 #### Self Employed - Information Technology Consultant
 
