@@ -3,7 +3,7 @@
 ```
 const skills = ["software engineering", "entrepreneurship", "consulting", "project management"];
 const hobbies = ["travel", "mentorship", "learning", "adventure"];
-const home = ["Cleveland"];
+const home = ["Miami"];
 
 const parker = skills + hobbies + home;
 
@@ -18,6 +18,7 @@ profile(parker);
 ## Stack Experience
 
 I have shipped production software using:
+* **GoLang** (ethereum, ipfs, custom implementations)
 * **Solidity** (ethereum, truffle, open-zeppelin)
 * **Ruby** (rails, sinatra, custom implementations)
 * **JavaScript** (node.js, express, koa, react, AngularJS, custom implementations)
@@ -29,6 +30,12 @@ I have shipped production software using:
 I generally view a programming language and framework as an implementation detail based on project requirements. I pay closer attention to patterns and architecture than to syntax.
 
 ## Work Experience
+
+#### Topaz, LLC - Founder
+
+*October 2018 - Present*
+
+Topaz allows irrefutable reporting to be generated for any software on the planet.
 
 #### Decent Technologies, LLC - Founder
 
