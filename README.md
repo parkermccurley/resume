@@ -18,7 +18,7 @@ profile(parker);
 ## Stack Experience
 
 I have shipped production software using:
-* **GoLang** (ethereum, ipfs, custom implementations)
+* **Go** (ethereum, ipfs, custom implementations)
 * **Solidity** (ethereum, truffle, open-zeppelin)
 * **Ruby** (rails, sinatra, custom implementations)
 * **JavaScript** (node.js, express, koa, react, AngularJS, custom implementations)
