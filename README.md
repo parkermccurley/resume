@@ -113,8 +113,6 @@ I served as the instructor for the "advanced" class, and instructed a full day w
 
 **linkedIn:** https://www.linkedin.com/in/parker-mccurley-112a64112
 
-**github:** https://github.com/parkertm
+**github:** https://github.com/parkermccurley
 
-**email:** parkermccurlz@gmail.com
-
-**phone:** 216.536.0799
+**email:** parker@decentlabs.io
